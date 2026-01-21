@@ -1,0 +1,2 @@
+la idea es usar de un inicio la herramienta, para ir creando material que más adelante sirva como precedente.
+Ya sea con comentarios, notas y propuestas de arreglos a toda la documentación que se desarrollara, sin perder las versiones de construcción.
